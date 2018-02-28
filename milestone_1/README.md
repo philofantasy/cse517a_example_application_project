@@ -1,26 +1,10 @@
 Milestone 1
 ===========
 
-Folders
+Descriptions
 -------
+We trained and ran a linear classifier on the given training data, and evaluate the model with the given test data.
+Then we merged the given train.csv and test.csv to one csv file, and used cross-validation to evaluate the linear classifier.
+We did the similar things using decision tree with and without bagging.
 
-Each milestone folder should include the following
 
-* All code you wrote/used
-* A README file
-
-They should not include
-
-* Datasets
-* Large packages
-
-README
-------
-
-The README file should include
-
-* Description of what your team did
-* Methods used to accomplish each part
-* Potential difficulties faced
-* Resources used
-* Description of how to run the code in the folder
