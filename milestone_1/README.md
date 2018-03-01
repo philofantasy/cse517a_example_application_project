@@ -25,8 +25,8 @@ Since we got a really large dataset with dimensions 10299 * 561, it took a long 
 
 Resources
 -------
-The resources we used are: \\
-Python 3 \\
+The resources we used are: \n
+Python 3 \n
 pandas package \\
 numpy package \\
 sklearn package \\
