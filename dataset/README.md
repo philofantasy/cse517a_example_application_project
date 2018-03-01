@@ -31,4 +31,5 @@ Citation
 
 Source
 --------
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
+* http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
+* https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones/data
