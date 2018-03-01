@@ -25,17 +25,17 @@ Since we got a really large dataset with dimensions 10299 * 561, it took a long 
 
 Resources
 -------
-The resources we used are:
-Python 3
-pandas package
-numpy package
-sklearn package
-warnings package
+The resources we used are: \\
+Python 3 \\
+pandas package \\
+numpy package \\
+sklearn package \\
+warnings package \\
 
 Files
 -------
-"Linear_Classifier.ipynb" is for reading data and running linear classifier on training dataset and then fit on test set.
-"Linear_Classifier_CV.ipynb" is for merging data and running cross-validation on combined dataset.
-"Decision_Tree.ipynb" is for running decision tree model and doing cross-validation with decision tree.
+"Linear_Classifier.ipynb" is for reading data and running linear classifier on training dataset and then fit on test set.\\
+"Linear_Classifier_CV.ipynb" is for merging data and running cross-validation on combined dataset.\\
+"Decision_Tree.ipynb" is for running decision tree model and doing cross-validation with decision tree.\\
 Each file is a markdown file that includes both code and result. The code included is intended to be run in Python 3
 
