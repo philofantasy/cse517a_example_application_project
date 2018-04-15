@@ -17,6 +17,8 @@ We also did Kernel PCA since we observed some kind of 'rbf' relationship. Based 
 
 We then compared the new result using PCA/KPCA with the previous milestones.
 
+In addition, we tried Neural Network using quasi-Newton methods and the stochastic gradient descent. We tried different number and size for the hidden layers and different parameters. Then we calculated the accuracy on test dataset for each method.
+
 
 Difficulties
 -------
@@ -42,6 +44,7 @@ Files
 * "m3.ipynb" is the Milestone 3 main program for applying PCA and applying KPCA.
 * "m1.ipynb" is for re-doing Milestone 1.
 * "m2.ipynb" is for re-doing Milestone 2.
+* "o3.ipynb" is the Neural Network based on PCA data.
 
 
 Each file is a markdown file that includes both code and result. The code included is intended to be run in Python 3
